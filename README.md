@@ -1,8 +1,8 @@
-# React + Vite
+# WindBnb
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create a small version of Airbnb - Windbnb with given data.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User story: You can see a list of properties/stays
+User story: I can see the property card with a name, rating, apartment type, and super host
+User story: I can filter properties by location and number of guests
+User story: I can see the number of filtered items
