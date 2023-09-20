@@ -1,6 +1,6 @@
 # WindBnb
 
-Create a small version of Airbnb - Windbnb with given data.
+Create a small version of Airbnb - Windbnb with given data on React.
 
 * User story: You can see a list of properties/stays:-
 
